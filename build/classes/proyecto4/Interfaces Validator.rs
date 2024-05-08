@@ -1,0 +1,2 @@
+proyecto4.IntegerValidator
+proyecto4.StringValidator
